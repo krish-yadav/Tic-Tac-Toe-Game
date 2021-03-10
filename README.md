@@ -10,3 +10,6 @@ python 3.8.5
 
 ### Documentation:
 I have written python with the data structure like dictionary and list.
+
+### Future version:
+Computer vs Human
